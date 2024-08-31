@@ -1,0 +1,1 @@
+FFmpeg logs are found in the same place as Jellyfin logs, right in the dashboard.

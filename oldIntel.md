@@ -1,0 +1,1 @@
+Intel's media drivers requires that your CPU be at least a Broadwell CPU and newer to use QSV. If your CPU is Haswell or older, you will need to use VAAPI. But the performance may not be great nor the quality.

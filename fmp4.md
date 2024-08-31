@@ -1,0 +1,2 @@
+the `Prefer fMP4 container for HLS` option needs to be enabled on clients to allow for direct streaming of / transcoding to HEVC / AV1.
+This setting can be found under `Playback` in the client settings.

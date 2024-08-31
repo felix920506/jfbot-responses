@@ -1,0 +1,1 @@
+Discussion of the *arr stack is not an appropriate topic for official Jellyfin channels. Please bring the discussion elsewhere.
