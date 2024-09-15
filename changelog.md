@@ -1,1 +1,1 @@
-There will not be any changelogs until the release comes out.
+https://github.com/jellyfin/jellyfin/commits/master/
