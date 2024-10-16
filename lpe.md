@@ -1,0 +1,1 @@
+Hardware that support QSV Low Power encoding can be found here: https://jellyfin.org/docs/general/administration/hardware-acceleration/intel#lp-mode-hardware-support
