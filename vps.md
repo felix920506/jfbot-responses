@@ -1,0 +1,1 @@
+https://forum.jellyfin.org/t-guide-proxy-jellyfin-with-a-vps
