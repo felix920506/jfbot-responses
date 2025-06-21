@@ -8,6 +8,5 @@ If you dont have access to the dashboard you can find your logfiles in the follo
 
 We recommend an external site like
 - https://pastebin.com
-- https://paste.debian.net/
 
 Paste the contents of your logfile into the input of those webseits and click `Send`/`Create new Paste`, then copy the browsers URL and send it here in chat.
