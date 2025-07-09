@@ -1,0 +1,1 @@
+A popular option for remote/external access is the use of a [reverse proxy](https://jellyfin.org/docs/general/post-install/networking/reverse-proxy/). Generally speaking, if you are unfamiliar with the concept, you should consider [Caddy](https://jellyfin.org/docs/general/post-install/networking/reverse-proxy/caddy/) as your first option.
