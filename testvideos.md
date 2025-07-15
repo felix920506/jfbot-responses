@@ -1,1 +1,1 @@
-If you are troubleshooting a playback issue, you can use [these test videos files](https://repo.jellyfin.org/test-videos/) to help narrow down the cause. These are all known good files and should play cleanly on any device supporting them, failures playing them with an official client indicate either a server or client problem.
+If you are troubleshooting a playback issue, you can use known good test video files from [the Jellyfin team](https://repo.jellyfin.org/test-videos/) to help test the specific containers or codecs you are having difficulty with.
