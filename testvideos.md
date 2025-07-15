@@ -1,0 +1,1 @@
+If you suspect you have a playback issue with a certain type of file or a certain bitrate network issue, you can use [these test videos files](https://repo.jellyfin.org/test-videos/) to confirm your issue. These are all known good files and should play cleanly on any device supporting them.
