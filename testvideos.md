@@ -1,0 +1,1 @@
+If you are troubleshooting a playback issue, you can use known good test video files from [the Jellyfin team](https://repo.jellyfin.org/test-videos/) to help test the specific containers or codecs you are having difficulty with.
