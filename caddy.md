@@ -1,0 +1,1 @@
+A popular option for remote/external access is the use of a reverse proxy. For this purpose, Caddy is recommended for most users. [A simple guide is available on the forum](https://forum.jellyfin.org/t-access-your-jellyfin-anywhere-with-caddy).
