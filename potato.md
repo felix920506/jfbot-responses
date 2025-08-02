@@ -1,0 +1,1 @@
+Your hardware is too slow for Jellyfin and cannot be upgraded to recommended specs without replacing basically the entire system. Please kindly let this system retire and get something more powerful.
