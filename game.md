@@ -1,0 +1,3 @@
+If you wish to host a game server on the same host as your Jellyfin server, Intel Core Ultra 200 series or Apple M4 Macs is recommended. 
+
+depending on the game or your specific needs, you might favor one over the other. If you need software that doesn't support macOS or need more than 16GB RAM, Core Ultra would be the better choice. If you are looking for low power consumption and/or peak single core performance, the M4 would be more suited to your needs.
