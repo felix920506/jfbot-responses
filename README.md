@@ -4,6 +4,6 @@ This repository holds responses to the unofficial `JBot` user in the Jellyfin ch
 
 Add a .md file for the text, and optionally a .jpg file for an attached image.
 
-The contents of this repository are synced with the bot server at UTC 00:00 everyday.
+The contents of this repository are synced with the bot server hourly. 
 
 Link: https://github.com/felix920506/jfbot-responses
