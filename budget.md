@@ -1,1 +1,0 @@
-For a budget server, the recommended hardware is Intel N100 or 2nd hand M series Macs. Regardless of the solution you choose, you should have at least 8GB RAM and setup hardware acceleration. 
