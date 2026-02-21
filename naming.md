@@ -1,0 +1,1 @@
+Jellyfin has specific requirements for folder and file naming in libraries. Information about the formats can be found in the [Jellyfin documentation](https://jellyfin.org/docs/) under Server Guide -> Media.
