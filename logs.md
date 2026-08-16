@@ -5,7 +5,7 @@ The logfiles are found in the same place as ffmpeg logs, right in the dashboard.
 If you dont have access to the dashboard you can find your logfiles in the following locations:
 
 - For Linux: `/var/lib/jellyfin/logs`
-- For Windows: `%programdata%\jellyfin\logs`
+- For Windows: `%programdata%\Jellyfin\Server\logs`
 - For Docker: On the docker host, the directory you map in as /config will have a "logs" directory in it.
 
 We recommend an external site like
