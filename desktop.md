@@ -1,5 +1,7 @@
-Jellyfin Media Player v1 has been renamed to Jellyfin Desktop in v2 and v3.
+jellyfin-desktop is in flux. QT6-based (v2) was an experiment that has major memory issues. Then the developer that was working on it decided to leave the project and run his stuff as third-party, so Jellyfin Desktop isn't currently being worked on.
 
-Jellyfin Desktop v2 has been deprecated due to issues with the underlying libraries. The new Jellyfin Desktop v3 is available for testing and feedback right now. Check out the [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) repository to get the new test version.
+v1 of jellyfin-desktop is called jellyfin-media-player. The final release of that (which is qt5-based) is [here](https://github.com/jellyfin/jellyfin-desktop/releases/tag/v1.12.0).
 
-You may still see Jellyfin Media Player and Jellyfin Desktop v2 around in various documentation or packages. These are no longer being worked on and will be decommissioned in due time.
+As an alternative, another Jellyfin developer is putting a lot of work into making jellyfin-mpv-shim act as a full desktop client. If you want to try it, look at the latest pre-release versions of [jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim/releases).
+
+Other alternatives (depending on your use case) includes watching stuff in your browser (chrome-based browsers go better than firefox for codec/directplay support), or using a third party client.

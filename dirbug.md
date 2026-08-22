@@ -1,4 +1,4 @@
-There's a bug in the current version of Jellyfin where if you rename or remove a bunch of directories on the filesystem, library updates can break, leaving "ghost" old entries for the changed/removed media and possibly preventing addition of new media to the library. In the server logs, you see errors like this:
+There's a bug in v10.11 of Jellyfin where if you rename or remove a bunch of directories on the filesystem, library updates can break, leaving "ghost" old entries for the changed/removed media and possibly preventing addition of new media to the library. In the server logs, you see errors like this:
 
 ```
 jellyfin  | [12:24:32] [INF] [20] Emby.Server.Implementations.Library.LibraryManager: Removing item, Type: Folder, Name: Some-Video-File, Path: /some/local/path/that/does/not/exist/anymore, Id: 6f59b9a7-740c-6e76-9d76-a46058631272
