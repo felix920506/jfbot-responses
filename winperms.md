@@ -16,4 +16,4 @@ icacls "$env:ProgramData\Jellyfin\Server" /grant "$($env:USERNAME):(OI)(CI)(F)" 
 
 Then try starting Jellyfin again (or reboot the server).
 
-If you're running as a service you have to use the user the service runs instead of %USERNAME%/%LOGNAME%.
+If you're running as a service you have to use the user the service runs instead of %USERNAME%/($env:USERNAME).
